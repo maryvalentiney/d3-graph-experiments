@@ -1,0 +1,20 @@
+{
+  "name": "d3_ver2",
+  "version": "1.0.0",
+  "description": "d3 graph take 2",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack -w"
+  },
+  "keywords": [
+    "js",
+    "d3"
+  ],
+  "author": "mary yoder",
+  "license": "MIT",
+  "devDependencies": {
+    "d3": "^6.7.0",
+    "webpack": "^5.34.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
